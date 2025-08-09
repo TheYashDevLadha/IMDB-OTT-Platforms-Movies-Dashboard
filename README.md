@@ -5,7 +5,7 @@ A comprehensive Power BI dashboard analyzing movies and TV shows across major st
 ## 🎬 Project Showcase
 
 <p align="center">
-  <img src="Project_Showcase/Dashboard.gif" alt="Dashboard Demo" width="600">
+  <img src="Project Showcase/Dashboard.gif" alt="Dashboard Demo" width="600">
 </p>
 
 <div align="center">
