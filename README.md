@@ -1,4 +1,4 @@
-# IMDB + OTT Platforms Movies Dashboard 🎬
+# IMDB + OTT Platforms Movies Dashboard 
 
 A comprehensive Power BI dashboard analyzing movies and TV shows across major streaming platforms and cinema industries, providing insights into content distribution, ratings, revenue, and viewing trends.
 
@@ -11,6 +11,8 @@ A comprehensive Power BI dashboard analyzing movies and TV shows across major st
 *Interactive Power BI Dashboard showcasing real-time analytics across multiple streaming platforms*
 
 </div>
+
+> **Note**: This is my first project in the data analyst field. This project was created by me and my friends in 2023.
 
 ## 📊 Dashboard Overview
 
