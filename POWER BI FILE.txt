@@ -1,0 +1,6 @@
+The Power BI (.pbix) file for this dashboard is larger than 25MB, which exceeds GitHub's file size limit. Therefore, we cannot upload it directly to this repository.
+
+🔗 Download the complete Power BI file from Kaggle:
+    [Your Kaggle Link Here]
+
+Please download the file from the above link and don't forget to upvote if you find this project helpful!
