@@ -171,3 +171,5 @@ score: Critical/User rating
 - **Release Trends**: Significant increase in content production post-2015
 - **Geographic Distribution**: Strong concentration in North America, Europe, and India
 - **Rating Patterns**: Most content falls in TV-MA and TV-14 categories
+
+> **Note**: This is my first project in the data analyst field. This project was created by me and my friends in 2023.
