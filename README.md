@@ -4,12 +4,12 @@ A comprehensive Power BI dashboard analyzing movies and TV shows across major st
 
 ## 🎬 Project Showcase
 
+<p align="center">
+  <img src="Project_Showcase/Dashboard.gif" alt="Dashboard Demo" width="600">
+</p>
+
 <div align="center">
-  
-![Dashboard Demo](your-dashboard-demo.gif)
-
-*Interactive Power BI Dashboard showcasing real-time analytics across multiple streaming platforms*
-
+  <h3><strong>Don't forget to leave a star ⭐️</strong></h3>
 </div>
 
 > **Note**: This is my first project in the data analyst field. This project was created by me and my friends in 2023.
