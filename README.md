@@ -46,95 +46,39 @@ This dynamic Power BI dashboard provides detailed analytics for movies and TV sh
 - Real-time filtering and drill-down capabilities
 
 ## 📋 Dataset Structure
-
 ### Amazon Prime Video
 ```
-show_id: Unique identifier for each show
-type: Content type (Movie/TV Show)
-title: Name of the content
-director: Director(s) name
-cast: Main actors/actresses
-country: Production country
-date_added: Date when added to platform
-release_year: Original release year
-rating: Content rating (PG, R, etc.)
-duration: Runtime (minutes for movies, seasons for shows)
-listed_in: Genre categories
-description: Content summary
+Columns: show_id, type, title, director, cast, country, date_added, 
+         release_year, rating, duration, listed_in, description
 ```
 
 ### Netflix
 ```
-type: Content type (Movie/TV Show)
-title: Name of the content
-director: Director(s) name
-cast: Main actors/actresses
-country: Production country
-date_added: Date when added to platform
-release_year: Original release year
-rating: Content rating (PG, R, etc.)
-duration: Runtime information
-listed_in: Genre categories
-description: Content summary
-day_added: Specific day when content was added
-year_added: Year when content was added
-month_added: Month when content was added
-[Genre Categories]: Individual genre columns (Teen_TV_Shows, Horror_Movies, etc.)
-User_Rating: User-generated ratings
+Columns: type, title, director, cast, country, date_added, release_year, 
+         rating, duration, listed_in, description, day_added, year_added, 
+         month_added, [Genre Categories], User_Rating
 ```
 
 ### Disney+ Hotstar
 ```
-title: Name of the content
-description: Content summary
-genre: Content category
-year: Release year
-age_rating: Age-appropriate rating
-running_time: Duration in minutes
-type: Content type (Movie/TV Show)
+Columns: title, description, genre, year, age_rating, running_time, type
 ```
 
 ### Apple TV+
 ```
-id: Unique content identifier
-title: Name of the content
-type: Content type (Movie/TV Show)
-description: Content summary
-release_year: Original release year
-age_certification: Age rating classification
-runtime: Duration in minutes
-genres: Content categories
-production_countries: Countries where produced
-seasons: Number of seasons (for TV shows)
-imdb_id: IMDB database identifier
-imdb_score: IMDB user rating
-imdb_votes: Number of IMDB votes
-tmdb_popularity: The Movie Database popularity score
-tmdb_score: The Movie Database user rating
+Columns: id, title, type, description, release_year, age_certification, 
+         runtime, genres, production_countries, seasons, imdb_id, 
+         imdb_score, imdb_votes, tmdb_popularity, tmdb_score
 ```
 
 ### Hollywood Movies
 ```
-Title: Movie name
-Date: Release date
-Genre: Movie category
-orig_lang: Original language
-Revenue($): Box office earnings in USD
-Budget($): Production cost in USD
-country: Production country
-score: Critical/User rating
+Columns: Title, Date, Genre, orig_lang, Revenue($), Budget($), country, score
 ```
 
 ### Bollywood Movies
 ```
-title: Movie name
-date: Release date
-genre: Movie category
-language: Primary language
-revenue: Box office earnings
-budget: Production cost
-country: Production country
-score: Critical/User rating
+Columns: title, date, genre, language, revenue, budget, country, score
 ```
 
 ## 🎯 Key Metrics Displayed
