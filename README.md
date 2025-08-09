@@ -12,7 +12,7 @@ A comprehensive Power BI dashboard analyzing movies and TV shows across major st
   <h3><strong>Don't forget to leave a star ⭐️</strong></h3>
 </div>
 
-> **Note**: This is my first project in the data analyst field. This project was created by me and my friends in 2023.
+
 
 ## 📊 Dashboard Overview
 
