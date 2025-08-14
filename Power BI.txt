@@ -1,6 +1,0 @@
-The Power BI (.pbix) file for this dashboard is larger than 25MB, which exceeds GitHub's file size limit. Therefore, we cannot upload it directly to this repository.
-
-🔗 Download the complete Power BI file from Google Drive:
-    https://drive.google.com/drive/folders/1ss3r4zWc2yGwPWu90I_aePPmdC1dbMOd?usp=sharing
-
-Please download the file from the above link and don't forget to upvote if you find this project helpful!
